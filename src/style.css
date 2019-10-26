@@ -1,0 +1,15 @@
+.content{
+    color: rgb(255, 255, 255);
+}
+
+.content{
+    background: url('images/header.jpg');
+    height:500px;
+    max-width:100%;
+    background-repeat: space;
+}
+
+
+body{
+    background:#620f17;
+}
